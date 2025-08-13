@@ -25,18 +25,19 @@ To get started with SLOPERT, follow these steps:
 
 1.  **Clone the Repository**: Open your terminal or command prompt and run:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/social-media-reporter.git
-    cd social-media-reporter
+    git clone (https://github.com/YOUR_USERNAME/SLOPET-SOCIAL-MEDIA-REPORTER-)
+
+     cd SLOPET-SOCIAL-MEDIA-REPORTER
     ```
     *(Replace `YOUR_USERNAME` with the actual GitHub username where the repository is hosted.)*
 
-2.  **Install Dependencies**: Ensure you have Python 3.7+ installed. Then, navigate to the cloned directory and install the required libraries:
+3.  **Install Dependencies**: Ensure you have Python 3.7+ installed. Then, navigate to the cloned directory and install the required libraries:
     ```bash
     pip install -r requirements.txt
     ```
     *(If `pip` doesn't work, try `pip3`.)*
 
-3.  **Run the Script**: Start the tool by executing:
+4.  **Run the Script**: Start the tool by executing:
     ```bash
     python main.py
     ```
