@@ -27,7 +27,7 @@ To get started with SLOPERT, follow these steps:
     ```bash
     git clone (https://github.com/YOUR_USERNAME/SLOPET-SOCIAL-MEDIA-REPORTER-)
 
-     cd SLOPET-SOCIAL-MEDIA-REPORTER
+     cd SLOPET-SOCIAL-MEDIA-REPORTER-
     ```
     *(Replace `YOUR_USERNAME` with the actual GitHub username where the repository is hosted.)*
 
